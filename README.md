@@ -7,9 +7,10 @@
 <h3 align="center">I am interested about various development fields like embedded sys., web, game and app development.</h3>
 
 <br/>
-    🌱 I'm currently learning GDScipt, C and C#.
+ 🔭 At the moment my work is focused on my already existing projects and their completion.**
+ 
+ 🌱 I'm currently learning GDScipt, C and C#.**
     
-    🔭 At the moment my work is focused on my already existing projects and their completion.
 <div align = "center">
     
 </div>
