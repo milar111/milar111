@@ -13,8 +13,8 @@
 <br/>
 
 <div align="center">
-  <h2>My Contributions</h2>
   <br>
+  <h2>My Contributions</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/milar111/milar111/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
