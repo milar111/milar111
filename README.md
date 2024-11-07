@@ -6,11 +6,11 @@
 
 <h3 align="center">I am interested about various development fields like embedded sys., web, game and app development.</h3>
 
-<br/>
+<div align="center">
  🔭 At the moment my work is focused on my already existing projects and their completion.
  
  🌱 I'm currently learning, C and C#.
-<br/>
+</div>
 
 <div align="center">
   <br>
