@@ -6,10 +6,11 @@
 
 <h3 align="center">I am interested about various development fields like embedded sys., web, game and app development.</h3>
 
+<!-- Stats -->
 <div align="center">
- 🔭 At the moment my work is focused on my already existing projects and their completion.
- 
- 🌱 I'm currently learning, C and C#.
+  <img src="https://github-readme-stats.vercel.app/api?username=milar111&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milar111&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milar111&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 <div align="center">
