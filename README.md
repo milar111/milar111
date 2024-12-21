@@ -15,6 +15,6 @@
 <div align="center">
   <br>
   <h2>My Contributions</h2>
-  ![snake gif](https://github.com/milar111/milar111/blob/output/github-snake-dark.svg)
+  <img alt="snake eating my contributions" src="https://github.com/milar111/milar111/blob/output/github-snake-dark.svg" />
   <br/><br/><br/>
 </div>
