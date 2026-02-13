@@ -13,10 +13,10 @@
   <img src="https://img.shields.io/badge/Always_Pushing_My_Skills_Forward-1A7F37?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats-private-omega.vercel.app/?user=milar111&theme=dark&hide_border=true&border_radius=5&title_color=1A7F37&text_color=ffffff&ring=1A7F37" width="50%" />
-  <img src="https://github-readme-stats-private-8nn511jdi-milar111s-projects.vercel.app/api/top-langs/?username=milar111&theme=dark&hide_border=true&layout=compact&border_radius=5&title_color=1A7F37&text_color=ffffff" width="36%" />
- </div> -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=milar111&theme=dark&hide_border=true&border_radius=5&title_color=1A7F37&text_color=ffffff&ring=1A7F37" width="50%" alt="GitHub Streak" />
+  <img src="https://readmestats-nine.vercel.app/api/top-langs/?username=milar111&theme=dark&hide_border=true&layout=compact&border_radius=5&title_color=1A7F37&text_color=ffffff" width="36%" alt="Top Languages" />
+</div>
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://github.com/milar111/milar111/blob/output/github-snake-dark.svg" />
