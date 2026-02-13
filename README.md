@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Game_Dev-1A7F37?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/App_Dev-1A7F37?style=for-the-badge&logo=android&logoColor=white" />
   <br><br>
-  <img src="https://img.shields.io/badge/Always_Pushing_My_Skills_Forward-1A7F37?style=for-the-badge&logo=rocket&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Always_Pushing_My_Skills_Forward-1A7F37?style=for-the-badge&logo=rocket&logoColor=white" /> -->
 </p>
 
 <div align="center">
