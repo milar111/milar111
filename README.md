@@ -4,13 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;&color=1A7F37" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded_Systems-1A7F37?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Dev-1A7F37?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game_Dev-1A7F37?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/App_Dev-1A7F37?style=for-the-badge&logo=android&logoColor=white" />
-  <br><br>
-</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=milar111&theme=dark&hide_border=true&border_radius=5&title_color=1A7F37&text_color=ffffff&ring=1A7F37" width="50%" alt="GitHub Streak" />
